@@ -1,4 +1,4 @@
-# xz_vue
+# flower_vue
 
 ## Project setup
 ```
